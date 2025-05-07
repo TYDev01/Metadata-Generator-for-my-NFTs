@@ -1,0 +1,29 @@
+{
+  "name": "Collection Name #16",
+  "description": "A unique Collection Name NFT featuring Zenitsu. A powerful Demon Slayer from the Hidden Thunder Village.",
+  "image": "ipfs://bafybeievznrj4qpboqlxuc67wplbfakha75muxyas5dqtahjhs4eqdaqd4/16.jpeg",
+  "external_url": "https://yourwebsite.com",
+  "animation_url": null,
+  "seller_fee_basis_points": 750,
+  "fee_recipient": "0xYOUR_WALLET_ADDRESS",
+  "background_color": "FFFFFF",
+  "youtube_url": "https://youtube.com/yourchannel",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Default"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "collection": {
+    "name": "Collection Name",
+    "family": "Demon Slayer"
+  }
+}
